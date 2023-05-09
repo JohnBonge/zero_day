@@ -1,3 +1,3 @@
-#***First readme file for my first project for test***
-## this file serves as ann intro into dev ops software engineering and all the data science and engineering works
-### _what an introduction_
+#__my first commit readme explar__
+##*this readme file is my first trial*
+'''use this as a link'''
